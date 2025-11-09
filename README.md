@@ -1,21 +1,21 @@
-ConvoHub 🚀
+Echo 🚀
 
 
-ConvoHub is a feature-rich real-time chat application that empowers users to engage in seamless conversations with others and interact with an intelligent AI chatbot named Nova. Built with cutting-edge technologies, ConvoHub showcases my skills in both backend and frontend development.
+Echo is a feature-rich real-time chat application that empowers users to engage in seamless conversations with others and interact with an intelligent AI chatbot named Nova. Built with cutting-edge technologies, Echo showcases my skills in both backend and frontend development.
 
 ✨ Key Features
-Real-Time Communication with Socket.IO: Leveraging Socket.IO, ConvoHub offers an interactive, live chat experience, where messages are delivered instantly without the need to refresh the page ⚡.
+Real-Time Communication with Socket.IO: Leveraging Socket.IO, Echo offers an interactive, live chat experience, where messages are delivered instantly without the need to refresh the page ⚡.
 
 Personalized User Experience: Users can easily change their profile picture and explore multiple color themes, making the platform truly their own 🎨.
 
-Responsive Design: Built to be fully responsive, ConvoHub ensures an optimal user experience across devices, from desktops to mobile phones 📱💻.
+Responsive Design: Built to be fully responsive, Echo ensures an optimal user experience across devices, from desktops to mobile phones 📱💻.
 
 AI-Powered Conversations with Nova: Users can converse with Nova, an AI chatbot, providing an additional layer of interaction within the platform 🤖.
 
 Modern UI with Tailwind CSS & DaisyUI: The app features a clean and modern interface, using Tailwind CSS, DaisyUI, and Lucide React, resulting in a highly intuitive, visually appealing design ✨.
 
 🛠️ Tech Stack
-ConvoHub is built with a robust and modern tech stack, ensuring scalability, efficiency, and real-time capabilities.
+Echo is built with a robust and modern tech stack, ensuring scalability, efficiency, and real-time capabilities.
 
 Frontend:
 
@@ -55,8 +55,8 @@ Installation:
 
 Clone the repository:
 
-git clone https://github.com/YourUsername/ConvoHub.git
-cd ConvoHub
+git clone https://github.com/YourUsername/Echo.git
+cd Echo
 
 Install backend dependencies:
 
